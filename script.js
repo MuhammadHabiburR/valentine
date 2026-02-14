@@ -6,7 +6,7 @@ const CONFIG = {
     noEscapeTexts: ["Eits, ga bisa😝", "Hehe, coba lagi 😜", "Yaudah deh, aku anggap YES ya! 💕"],
     confirmTitle: "YAAAY! Kamu beneran mau 🥺💗",
     confirmText: "Mulai dari sekarang kamu resmi jadi…",
-    badgeText: "My ",
+    badgeText: "My Valentine",
     nextButton: "Lanjut ",
     repeatButton: "Ulangi pertanyaan",
     flowerTitle: "Ini kado spesial buat kamu ",
